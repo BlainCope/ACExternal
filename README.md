@@ -26,3 +26,6 @@ The microservice logs the received data by printing it to the console. You can m
 Notes
 Make sure the microservice is running before executing your C++ program.
 The microservice runs on localhost with port 5000. If you need to change the hostname or port, update the InternetConnect function in the C++ code accordingly.
+
+![image](https://github.com/BlainCope/ACExternal/assets/90635596/779db6b7-6566-4707-a711-7b68a95421a5)
+
